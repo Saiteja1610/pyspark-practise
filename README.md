@@ -53,8 +53,3 @@ dense_rank()
 CSV
 JSON
 Parquet
-🚀 Performance Optimization
-
-🔄 ETL & ELT Pipelines
-
-📈 Real-Time Analytics
